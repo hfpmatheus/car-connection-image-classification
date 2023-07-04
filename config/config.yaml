@@ -1,0 +1,6 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data
+  raw_data_path: artifacts/data/thecarconnectionpicturedataset
+  preprocessed_data_dir: artifacts/car-connection-by-brand
